@@ -1,5 +1,5 @@
 {
-    "name": "tanzhenxing/ueditor-thinkphp",
+    "name": "nick-bai/ueditor-thinkphp",
     "description": "Ueditor upload file SDK for ThinkPHP",
     "keywords": [ "ueditor", "upload", "ThinkPHP" ],
     "type": "library",
@@ -7,8 +7,8 @@
     "homepage": "http://ueditor.baidu.com/website/",
     "authors": [
         {
-            "name": "tanzhenxing",
-            "homepage": "https://github.com/tanzhenxing"
+            "name": "nickbai",
+            "homepage": "https://github.com/nick-bai"
         }
     ],
     "require": {
