@@ -1,5 +1,5 @@
 {
-    "name": "nick-bai/ueditor-thinkphp",
+    "name": "nickbai/ueditor-thinkphp",
     "description": "Ueditor upload file SDK for ThinkPHP",
     "keywords": [ "ueditor", "upload", "ThinkPHP" ],
     "type": "library",
